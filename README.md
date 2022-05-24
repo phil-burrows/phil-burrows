@@ -7,7 +7,7 @@ I have a masters degree in geographic information systems and a BA in human geog
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Code-Python-D8BFD8?style=flat&logo=python&logoColor=white&color=D8BFD8)
-![Java](https://img.shields.io/badge/code-python-blue))
+![Java](https://img.shields.io/badge/code-python-blue)
 ![Html](https://img.shields.io/badge/Code-HTML-D8BFD8?style=flat&logo=html5&logoColor=white&color=D8BFD8)
 ![CSS](https://img.shields.io/badge/Code-CSS-D8BFD8?style=flat&logo=css3&logoColor=white&color=D8BFD8)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-D8BFD8?style=flat&logo=microsoftazure&logoColor=white&color=D8BFD8)
