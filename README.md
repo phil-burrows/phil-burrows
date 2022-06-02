@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Phillip Burrows and I am an Geospatial Analyst at the Govenrment of Canada. 
+My name is Phillip Burrows and I am an Geospatial Data Analyst at the Govenrment of Canada. 
 Here you will find a small sample of the projects I am working on, mostly coursework from FreeCodeCamp for the time being.
 
 ## About me:
